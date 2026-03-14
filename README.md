@@ -28,7 +28,7 @@ Como executar o projeto:
 
 Instale as dependências: pip install fastapi uvicorn pandas yfinance
 
-Inicie o servidor: uvicorn main:app --reload
+Inicie o servidor: uvicorn api:app --reload
 
 Acesse a documentação: http://127.0.0.1:8000/docs
 
